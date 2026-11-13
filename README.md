@@ -115,4 +115,5 @@ npm run dev     # http://localhost:5173
 
 ## Author
 
-**Divya Singh** · [GitHub](https://github.com/DivyaSingh0111) · [LinkedIn](https://www.linkedin.com/in/divya-singh)
+**Divya Singh** · [GitHub](https://github.com/DivyaSingh0111) · [LinkedIn](https://www.linkedin.com/in/divya-singh-987b6b20b)
+
