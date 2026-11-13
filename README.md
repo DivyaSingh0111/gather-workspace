@@ -4,8 +4,6 @@
 
 **Live demo:** https://gather-workspace-six.vercel.app
 
-![TriBoard AI](docs/screenshot.png)
-
 ## Features
 
 - **Four views per canvas**
